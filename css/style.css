@@ -1,0 +1,14 @@
+.box{
+	height:100px;
+	width:100px;
+}
+.green{
+	background-color:green;
+	padding:50px,20px ;
+	margin: 50px;
+}
+.red{
+	background-color: red;
+	padding: 10px,20px,30px,40px;
+	margin: 30px;
+}
